@@ -69,7 +69,7 @@ public class BrowserTesting {
 	}
 	public static void main(String[] args) throws InterruptedException {
 		BrowserTesting brtg = new BrowserTesting();
-		brtg.accessSite("edge");
+		brtg.accessSite("Edge ");
 
 	}
 
