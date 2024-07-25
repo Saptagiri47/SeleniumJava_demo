@@ -72,5 +72,4 @@ public class BrowserTesting {
 		brtg.accessSite("Edge ");
 
 	}
-
 }
