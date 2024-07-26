@@ -66,6 +66,7 @@ public class BrowserTesting {
 		driver.findElement(By.name("user")).sendKeys("testuser");
 		Thread.sleep(2000);
 		driver.quit();
+		
 	}
 	public static void main(String[] args) throws InterruptedException {
 		BrowserTesting brtg = new BrowserTesting();
